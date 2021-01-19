@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "nombre": "Joseph",
+        "apellido": "Diaz",
+        "correo": "joseph.vd15z@gmail.com",
+        "dni": "78207088",
+        "celular": "912263164"
+    },
+    {
+        "id": "2",
+        "nombre": "Randy",
+        "apellido": "Torres",
+        "correo": "randy.v12d@gmail.com",
+        "dni": "78901008",
+        "celular": "980365164"
+    },
+    {
+        "id": "3",
+        "nombre": "Jose",
+        "apellido": "Sanchez",
+        "correo": "randy.v14585@gmail.com",
+        "dni": "74040088",
+        "celular": "984085164"
+    }
+]
